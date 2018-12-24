@@ -23,6 +23,8 @@ import eg.edu.alexu.csd.oop.game.object.Observable;
 import eg.edu.alexu.csd.oop.game.world.InitialWorld;
 import eg.edu.alexu.csd.oop.game.world.levels.EasyLevel;
 import eg.edu.alexu.csd.oop.game.world.levels.HardLevel;
+import eg.edu.alexu.csd.oop.game.world.levels.LevelDifficulty;
+import eg.edu.alexu.csd.oop.game.world.levels.NormalLevel;
 
 public class Main {
 
@@ -46,7 +48,23 @@ public class Main {
         MakeSounds.play("src/Images/sound.wav");
         final Snapshot[] snapshot = {new Snapshot()};
         final boolean[] snapShotIsActive = {false};
-        InitialWorld initialWorld = new InitialWorld(InitialWorld.img.getWidth(), InitialWorld.img.getHeight(), new EasyLevel(), new Observable());
+        LevelDifficulty level = null;
+                switch(args[0]) {
+                	case "easy":
+                		level = new EasyLevel();
+                		break;
+                	case "normal":
+                		level = new NormalLevel();
+                		break;
+                	case "hard":
+                		level = new HardLevel();
+                		break;
+                	default:
+                		level = new EasyLevel();
+                }
+        
+        
+        InitialWorld initialWorld = new InitialWorld(InitialWorld.img.getWidth(), InitialWorld.img.getHeight(), level, new Observable());
         final GameController[] gameController = {GameEngine.start("Circus Of Plates", initialWorld, menuBar, Color.BLACK)};
         Log.getLoggeer().info("Start Game");
         pauseMenuItem.addActionListener(new ActionListener() {

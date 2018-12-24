@@ -149,8 +149,8 @@ public class InitialWorld implements World {
     }
 
     @Override
-    public void update(int score) {
-        this.score = score;
+    public void update() {
+        this.score++;
     }
 
     private boolean isGameOver() {

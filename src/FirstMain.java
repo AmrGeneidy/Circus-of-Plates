@@ -16,13 +16,12 @@ public class FirstMain extends Application{
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
         this.primaryStage = primaryStage;
-       
 	}
 	
 	public static void main(String[] args) {
 		launch(args);
-		
 	}
+	
 	public static void end() {
 		primaryStage.close();
 	}

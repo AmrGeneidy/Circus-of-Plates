@@ -7,7 +7,7 @@
 <?import javafx.scene.layout.Pane?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane xmlns="http://javafx.com/javafx/8.0.51" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
+<AnchorPane xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="Controller">
    <children>
       <Pane fx:id="pane" prefHeight="500.0" prefWidth="900.0" stylesheets="@../style.css">
          <children>
@@ -19,17 +19,12 @@
                   <DropShadow blurType="ONE_PASS_BOX" color="#fcfcfc" height="133.44" radius="42.4975" spread="0.91" width="38.55" />
                </effect>
             </Label>
-            <Button fx:id="newGame" layoutX="396.0" layoutY="187.0" mnemonicParsing="false" onAction="#newGame" style="-fx-background-color: #376C6C; -fx-background-radius: 15;" text="New Game" textFill="WHITE">
+            <Button fx:id="newGame" layoutX="396.0" layoutY="205.0" mnemonicParsing="false" onAction="#newGame" style="-fx-background-color: #376C6C; -fx-background-radius: 15;" text="New Game" textFill="WHITE">
                <font>
                   <Font name="Berlin Sans FB Demi Bold" size="17.0" />
                </font>
             </Button>
-            <Button fx:id="loadGame" layoutX="394.0" layoutY="235.0" mnemonicParsing="false" style="-fx-background-color: #376C6C; -fx-background-radius: 15;" text="Load Game" textFill="WHITE">
-               <font>
-                  <Font name="Berlin Sans FB Demi Bold" size="17.0" />
-               </font>
-            </Button>
-            <Button fx:id="exit" layoutX="423.0" layoutY="282.0" mnemonicParsing="false" onAction="#exit" style="-fx-background-color: #da1a1a; -fx-background-radius: 15;" text="Exit" textFill="WHITE">
+            <Button fx:id="exit" layoutX="423.0" layoutY="258.0" mnemonicParsing="false" onAction="#exit" style="-fx-background-color: #da1a1a; -fx-background-radius: 15;" text="Exit" textFill="WHITE">
                <font>
                   <Font name="Berlin Sans FB Demi Bold" size="17.0" />
                </font>

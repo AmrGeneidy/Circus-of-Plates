@@ -9,7 +9,6 @@ import eg.edu.alexu.csd.oop.game.MakeSounds;
 import eg.edu.alexu.csd.oop.game.World;
 import eg.edu.alexu.csd.oop.game.object.shape.Shape;
 
-import org.omg.CORBA.portable.ObjectImpl;
 
 public class Observable {
     private List<World> observers = new ArrayList<>();
@@ -61,7 +60,7 @@ public class Observable {
 
     public void notifyObservers() {
         for (World w : observers) {
-            w.update(this.score);
+            w.update();
         }
     }
     
