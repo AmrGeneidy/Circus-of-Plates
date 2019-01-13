@@ -1,0 +1,2470 @@
+Jan 05, 2019 1:35:39 AM Main main
+INFO: Start Game
+Jan 05, 2019 1:35:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:39 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:39 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:35:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:35:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon left hand
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:44 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:44 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon left hand
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:46 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon left hand
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon right hand
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:52 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:53 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:35:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon right hand
+Jan 05, 2019 1:35:56 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:56 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:35:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:58 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:35:58 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:35:58 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:58 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:58 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:58 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:58 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon right hand
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:35:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:36:00 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:00 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:00 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:00 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:00 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:00 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:01 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:03 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:36:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenPlateon right hand
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:06 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon right hand
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:07 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:08 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon left hand
+Jan 05, 2019 1:36:09 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:11 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:11 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:11 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:11 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon right hand
+Jan 05, 2019 1:36:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:12 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:12 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:13 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:13 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:13 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:13 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:13 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:13 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:14 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:15 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:15 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:15 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:15 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:15 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:15 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:15 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon left hand
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:18 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:19 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:19 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:19 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:19 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:19 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:19 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:19 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:20 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:20 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:20 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:20 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:20 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon right hand
+Jan 05, 2019 1:36:22 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:22 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:22 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:22 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:22 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon right hand
+Jan 05, 2019 1:36:23 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:36:24 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:24 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:24 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:24 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:24 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:25 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:26 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon right hand
+Jan 05, 2019 1:36:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:28 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:28 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:28 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:28 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon left hand
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon left hand
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:32 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon right hand
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:36 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:36 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:38 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:39 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:39 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon left hand
+Jan 05, 2019 1:36:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon right hand
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenPlateon left hand
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon left hand
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon right hand
+Jan 05, 2019 1:36:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:48 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon left hand
+Jan 05, 2019 1:36:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:50 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:50 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon left hand
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:51 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenBallon left hand
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:52 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:53 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon left hand
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:54 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:36:55 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:56 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:57 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:58 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:36:58 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:36:58 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:58 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:36:59 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:00 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon right hand
+Jan 05, 2019 1:37:01 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:02 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:03 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:03 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:03 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:03 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:03 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:03 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenBallon left hand
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:04 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:05 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:06 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:07 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon right hand
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:08 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:09 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon left hand
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:10 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:11 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenPlateon left hand
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:12 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon left hand
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon left hand
+Jan 05, 2019 1:37:13 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:14 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:15 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:15 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:15 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:15 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:15 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:15 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:16 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:16 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:16 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:16 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:17 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:17 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:17 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:18 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:18 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:18 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:19 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:20 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:20 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:20 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:20 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:20 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:21 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:22 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:22 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:22 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:22 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:22 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:22 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:22 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredBallon right hand
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.Observable execute
+INFO: Player got point
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:23 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenPlateon right hand
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon left hand
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:24 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:25 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenPlateon right hand
+Jan 05, 2019 1:37:25 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:25 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:25 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon right hand
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:26 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:27 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:27 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:27 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:27 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:28 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:29 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:30 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:30 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:31 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:32 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:32 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:32 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:32 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:32 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:32 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:33 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:34 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtgreenBallon right hand
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:35 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtredPlateon right hand
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtblueBallon left hand
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:36 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:37 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: Clown has caughtbluePlateon right hand
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:38 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:39 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:40 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:41 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:42 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:43 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:44 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:45 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:46 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:47 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create blueBall
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenPlate has been fallen to to the ground
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redPlate has been fallen to to the ground
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:48 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: redBall has been fallen to to the ground
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create redBall
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: greenBall has been fallen to to the ground
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create greenPlate
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:49 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create redPlate
+Jan 05, 2019 1:37:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:50 AM eg.edu.alexu.csd.oop.game.object.shape.PlateFactory getRandomShape
+INFO: Create bluePlate
+Jan 05, 2019 1:37:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: bluePlate has been fallen to to the ground
+Jan 05, 2019 1:37:50 AM eg.edu.alexu.csd.oop.game.object.shape.state.FreeFall goNextState
+INFO: blueBall has been fallen to to the ground
+Jan 05, 2019 1:37:50 AM eg.edu.alexu.csd.oop.game.object.shape.BallFactory getRandomShape
+INFO: Create greenBall

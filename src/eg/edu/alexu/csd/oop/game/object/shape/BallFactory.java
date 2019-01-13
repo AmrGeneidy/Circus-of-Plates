@@ -32,7 +32,6 @@ public class BallFactory implements AbstractFactory {
     public Shape getRandomShape() {
     	int colorId = (int) (Math.random() * 3);
 		Shape RandomBall = DynamicLinkageShape.load(ballClassName, ballImages[colorId], color[colorId]);
-        //Shape RandomBall = new Ball(ballImages[colorId], color[colorId]);
 		Log.getLoggeer().info("Create "+ (String) RandomBall.getName());
         return RandomBall;
     }

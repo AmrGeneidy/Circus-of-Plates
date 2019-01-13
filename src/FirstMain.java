@@ -15,6 +15,7 @@ public class FirstMain extends Application{
         primaryStage.setTitle("Circus Of Plates");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
+        primaryStage.setResizable(false);
         this.primaryStage = primaryStage;
 	}
 	

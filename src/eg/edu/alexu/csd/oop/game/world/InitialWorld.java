@@ -20,7 +20,7 @@ import eg.edu.alexu.csd.oop.game.object.shape.Shape;
 import eg.edu.alexu.csd.oop.game.object.shape.state.State;
 import eg.edu.alexu.csd.oop.game.world.levels.LevelDifficulty;
 
-public class InitialWorld implements World {
+public class InitialWorld implements World, IObserver {
     private List<GameObject> constantObjects;
     private List<GameObject> movableObjects;
     private List<GameObject> controlableObjects;

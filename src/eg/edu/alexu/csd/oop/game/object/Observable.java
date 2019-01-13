@@ -11,16 +11,18 @@ import eg.edu.alexu.csd.oop.game.object.shape.Shape;
 
 
 public class Observable {
-    private List<World> observers = new ArrayList<>();
+    private List<IObserver> observers = new ArrayList<>();
     private int score;
     private int counter;
 
-   
-	public void add(World w) {
+   public Observable (IObserver s){
+	   add(s);
+   }
+	public void add(IObserver w) {
         observers.add(w);
     }
 
-    public void remove(World w) {
+    public void remove(IObserver w) {
         observers.remove(w);
     }
 
@@ -51,16 +53,14 @@ public class Observable {
         }
         if (counter == this.counter) {
     		Log.getLoggeer().info("Player got point");
-            score++;
-            MakeSounds.play("src/Images/pop.wav");
             return true;
         }
         return false;
     }
 
     public void notifyObservers() {
-        for (World w : observers) {
-            w.update();
+        for (IObserver w : observers) {
+        		w.update();
         }
     }
     

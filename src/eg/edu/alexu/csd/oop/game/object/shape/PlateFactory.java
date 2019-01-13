@@ -33,7 +33,6 @@ public class PlateFactory implements AbstractFactory {
 	public Shape getRandomShape() {
 		int colorId = (int) (Math.random() * 3);
 		Shape RandomPlate = DynamicLinkageShape.load(plateClassName, plateImages[colorId], colors[colorId]);
-		//Shape RandomPlate = new Plate(plateImages[colorId], colors[colorId]);
 		Log.getLoggeer().info("Create "+ (String) RandomPlate.getName());
 		return RandomPlate;
 	}

@@ -10,7 +10,6 @@ import eg.edu.alexu.csd.oop.game.object.shape.state.*;
 
 
 public class Plate extends Shape {
-
     public Plate(BufferedImage[] spriteImages, String color) {
         super(spriteImages, color);
     }
